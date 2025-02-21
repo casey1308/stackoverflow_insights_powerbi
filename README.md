@@ -68,7 +68,7 @@ RETURN
 - **Deeper insights into developer technologies & skills**
 
 ## 👨‍💻 Author & Contribution
-Developed by **[Your Name]**, incorporating **DAX, Power Query, and interactive Power BI visuals** to create an insightful and data-driven report.
+Developed by **Sahil Gaur**, incorporating **DAX, Power Query, and interactive Power BI visuals** to create an insightful and data-driven report.
 
 For any queries or suggestions, feel free to reach out! 🚀
 
